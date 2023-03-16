@@ -5,7 +5,7 @@ hardware: GPU
 
 ## Train and Test  
 cd ./code  
-You can use STMHCPan_netmhcpan.ipynb for train
+You can use STMHCPan_netmhcpan.ipynb for train.  
 You can use predict_ensemble.py for predict.   
 
 ### For example:  
