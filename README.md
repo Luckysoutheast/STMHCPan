@@ -13,3 +13,6 @@ You can use predict_ensemble.py for predict.
 
 ## Data  
 Training data sets and independence Test data sets are stored in the data file.
+
+## Result  
+The test result was saved in ./data/
