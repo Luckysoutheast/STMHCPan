@@ -15,4 +15,5 @@ You can use predict_ensemble.py for predict.
 Training data sets and independence Test data sets are stored in the data file.
 
 ## Result  
-The test result was saved in ./data/
+The test result data was saved in ./data/test_data  
+The picture of test data was saved in ./picture 
