@@ -1,5 +1,5 @@
 # STMHCPan
-For Train
+## Running Environment
 software: Pytorch-GPU, python, sklearn, numpy, pandas  
 hardware: GPU  
 
