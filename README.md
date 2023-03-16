@@ -11,3 +11,5 @@ You can use predict_ensemble.py for predict.
 ### For example:  
 #### python predict_ensemble.py
 
+## Data  
+Training data sets and independence Test data sets are stored in the data file.
