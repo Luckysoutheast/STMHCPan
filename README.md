@@ -1,6 +1,11 @@
 # STMHCPan
 ## Running Environment
-software: Pytorch-GPU, python, sklearn, numpy, pandas  
+pip install pytorch_gpu==1.10.0  
+pip install python==3.7    
+pip install scikit-learn==1.0.2   
+pip install numpy==1.19.5  
+pip install pandas==1.3.5    
+
 hardware: GPU  
 
 ## Train and Test  
